@@ -1,0 +1,3 @@
+/home/dev/Proxy_Check/build/Desktop-Release/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+/home/dev/Proxy_Check/build/Desktop-Release/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+/home/dev/Proxy_Check/build/Desktop-Release/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir
